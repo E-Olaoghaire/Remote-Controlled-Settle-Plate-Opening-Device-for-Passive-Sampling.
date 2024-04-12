@@ -2,8 +2,8 @@
 
 // Background
 
-This repository contains a manufacturing drawing, circuit diagram, pictures of the devices I built, and STL files for a remote controlled lid opener designed for use in passive sampling of air contamination.
-Passive sampling is a qualitative method of assessment using petri dishes with an agar nutrient medium that is used quite often to assess air contamination, 
+This repository contains a manufacturing drawing, circuit diagram, pictures of the devices I built, and STL files for a remote controlled lid opener designed for use in passive sampling of microbial air contamination.
+Passive sampling is a qualitative method of assessment using petri dishes with an agar nutrient medium, 
 but from what I have read, many researchers open and close plates by hand
 this could be a potential source of contamination.
 I wanted to avoid contamination as much as possible and so this is what I came up with.
