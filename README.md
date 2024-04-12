@@ -26,3 +26,8 @@ I controlled the servo positions with a simple web server like this one https://
 // Power
 
 I powered my ESP32s with portable chargers and the servos with 9V batteries which were attached to each stand
+
+// Using this device
+
+In practice, this device will push dishes forward a little bit when opening plates. This shouldn't be a huge problem if you open the plates slowly,
+as the lids of petri dishes are usually quite a bit wider than the base, so a full close should still be achievable, if you raise and lower slowly.
